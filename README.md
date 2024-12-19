@@ -104,6 +104,13 @@ The example below will correctly render the image in the HTML, assuming the `[..
 > ```
 > [Click here for the implementation of `Image.init(base64EncodedFromURL:)`](https://github.com/coenttb/swift-html/blob/main/Sources/HTML/Image.swift), which shows how to encode an image to base64.
 
+# Related projects
+
+* [coenttb/pointfree-html](https://www.github.com/coenttb/swift-css): A Swift DSL for type-safe HTML forked from [pointfreeco/swift-html](https://www.github.com/pointfreeco/swift-html) and updated to the version on [pointfreeco/pointfreeco](https://github.com/pointfreeco/pointfreeco).
+* [coenttb/swift-css](https://www.github.com/coenttb/swift-css): A Swift DSL for type-safe CSS.
+* [coenttb/swift-html](https://www.github.com/coenttb/swift-html): A Swift DSL for type-safe HTML & CSS, integrating [swift-css](https://www.github.com/coenttb/swift-css) and [coenttb/pointfree-html](https://www.github.com/coenttb/pointfree-html).
+* [coenttb-html](https://www.github.com/coenttb/coenttb-html): Extends [coenttb/swift-html](https://www.github.com/coenttb/swift-html) with additional functionality and integrations for HTML, Markdown, Email, and printing HTML to PDF.
+* [coenttb/swift-languages](https://www.github.com/coenttb/swift-languages): A cross-platform translation library written in Swift.
 
 
 ## Installation
